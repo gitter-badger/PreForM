@@ -7,6 +7,8 @@
 
 # PreForM.py
 ### <a name="top">PreForM.py,  Preprocessor for Fortran poor Men
+
+[![Join the chat at https://gitter.im/szaghi/PreForM](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/szaghi/PreForM?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 A very simple and stupid preprocessor for modern Fortran projects. 
 
 PreForM.py supports the most used `cpp` pre-processing directives and provides advanced features typical of templating systems. Even if PreForM.py is currently Fortran-agnostic (it being usable within any programming languages) it is focused on Fortran programming language.
